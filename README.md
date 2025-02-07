@@ -1,6 +1,8 @@
-# Trillion Integration Guides
+# Trillion Removing Guides
 
-This repository contains instructions for integrating and removing Trillion features from your website. Please refer to the appropriate guide based on your setup and requirements.
+This repository contains instructions for removing Trillion features from your website. Please refer to the appropriate guide based on your setup and requirements.
+
+If you looking for inregration instruction, please follow another link: https://github.com/TrillionHQ/TrillionShopifySDK?tab=readme-ov-file#trillion-shopify-sdk
 
 ## Available Guides
 
