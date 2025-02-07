@@ -12,8 +12,8 @@ If you looking for integration instructions, please follow another link: https:/
 ### 2. [Remove 3D Viewer Integration from Shopify](./remove-viewer-shopify.md)
    This guide provides steps to remove the Trillion 3D Viewer from a Shopify site, including all scripts and files.
 
-### 3. [Integration Without Shopify](./no-shopify.md)
-   This guide is applicable for customers who are not using Shopify and provides instructions for integrating or removing Trillion features on other platforms.
+### 3. [Remove integration Without Shopify](./no-shopify.md)
+   This guide is applicable for customers who are not using Shopify and provides instructions for removing Trillion features on other platforms.
 
 ## Support
 
